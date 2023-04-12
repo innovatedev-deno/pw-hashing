@@ -1,0 +1,4 @@
+[workspace]
+members = [
+  "deno_pw_hashing",
+]
